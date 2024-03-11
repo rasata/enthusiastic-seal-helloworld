@@ -6,5 +6,6 @@ PUBLIC_ENDPOINTS = [
     "/login",
     "/signup",
     "/hello/{first_name}",
-    "/loaderio-bffbe3f257bed1bcc16ed5e1257bac75.txt"
+    "/loaderio-bffbe3f257bed1bcc16ed5e1257bac75.txt",
+    "/hello"
 ]
